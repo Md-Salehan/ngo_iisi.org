@@ -1,0 +1,17 @@
+#header{
+    background-color: #2d3748;
+}
+.blog{
+    margin-top: 12vh !important;
+}
+.col-lg-8{
+    width: 75vw !important;
+    margin-left: 6vw;
+}
+.entry-img{
+    max-height: 65vh !important;
+}
+.img-fluid{
+    width: 100%;
+    max-height: 65vh;
+}
